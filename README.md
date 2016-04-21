@@ -1,14 +1,14 @@
-# ghost-interphase-theme
-A ghost theme based off of [template.co/interphase](http://templated.co/interphase).
+# Ghost theme for op-en.se
 
-### Installation instructions
+Comes from a fork of the default [Ghost](http://github.com/tryghost/ghost/) theme named [Casper](https://github.com/TryGhost/Casper)!
 
-Simply download this repository and place the content in your `/content/themes/` folder of your ghost project (in a separate folder).
+## Copyright & License
 
-### Desktop
+Copyright (c) 2013-2015 Ghost Foundation - Released under the MIT License.
 
-![interphase-desktop](https://cloud.githubusercontent.com/assets/777823/7796254/af798436-02dd-11e5-890d-de51253d26a3.png)
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-### Mobile
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-![interphase](https://cloud.githubusercontent.com/assets/777823/7796251/a914b20a-02dd-11e5-8db9-04a29d42a134.png)
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
