@@ -1,10 +1,5 @@
 <div class="navigation">
   <div class="nav-content">
-    {{#if @blog.logo}}
-    <div>
-      <a class="blog-logo" href="{{@blog.url}}"><img src="{{@blog.logo}}" alt="{{@blog.title}}" /></a>
-    </div>
-    {{/if}}
     <div class="nav-items">
         {{#foreach navigation}}
           <div class="nav-{{slug}}{{#if current}} nav-current{{/if}}" role="presentation"><a href="{{url absolute="true"}}">{{label}}</a></div>
