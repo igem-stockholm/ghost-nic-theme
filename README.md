@@ -1,4 +1,4 @@
-# Ghost theme for op-en.se
+# Ghost theme for Nordic iGEM Conference
 
 Comes from a fork of the default [Ghost](http://github.com/tryghost/ghost/) theme named [Casper](https://github.com/TryGhost/Casper)!
 
